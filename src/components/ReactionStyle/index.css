@@ -1,0 +1,10 @@
+.emoji-style {
+  list-style-type: none;
+  font-family: Roboto;
+}
+.image-style {
+  width: 30%;
+}
+.react-name {
+  color: #1e293b;
+}
